@@ -1,0 +1,46 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+html {
+    /*
+    font-family: 'Marck Script', cursive;
+    font-family: 'Neucha', cursive;
+    font-family: 'EB Garamond', serif;
+    font-family: 'Underdog', cursive; */
+    font-family: "Amsdam cyr-lat", sans-serif;
+    background-color: #e6d8c7;
+}
+
+nav {
+    background-color: #372e2a;
+    background-color: rgba(55, 46, 42, 0.68);
+    color: #fff9ec;
+}
+
+footer {
+    background-color: rgba(85, 70, 65, 0.55);
+    color: #fff9ec;
+    font-size: small;
+}
+
+.collapsible-header {
+    background-color: #554641;
+    color: #fff9ec;
+}
+
+.collapsible-body {
+    background-color: #fff9ec;
+    color: #372e2a;
+}
+
+.icon-block {
+    padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
