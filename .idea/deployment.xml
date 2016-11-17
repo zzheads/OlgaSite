@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="PublishConfigData" serverName="vh34.timeweb.ru" uploadOnCheckin="5f46adab-f66c-43ca-a175-a44221d5c07e">
+    <serverData>
+      <paths name="vh34.timeweb.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
     <option name="myUploadOnCheckinName" value="vh34.timeweb.ru" />
   </component>
 </project>

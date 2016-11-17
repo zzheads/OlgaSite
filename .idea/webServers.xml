@@ -3,7 +3,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="5f46adab-f66c-43ca-a175-a44221d5c07e" name="vh34.timeweb.ru" url="http://vh34.timeweb.ru">
-        <fileTransfer host="vh34.timeweb.ru" port="21">
+        <fileTransfer host="vh34.timeweb.ru" port="21" rootFolder="/public_html">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
